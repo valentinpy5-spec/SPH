@@ -35,4 +35,4 @@ Eigen, GLFW, GLEW, GLM, jsoncpp. Dear ImGui est vendoré dans `engine/third_part
 
 ## Démo
 
-![Démo de la simulation](demo.gif)
+<img src="demo.gif" width="900" alt="Démo de la simulation">
