@@ -1,0 +1,11 @@
+{
+  "dt": 0.0004,
+  "total_time": 5.0,
+  "h": 0.075,
+  "rho0": 1000.0,
+  "cs": 20.0,
+  "nu": 0.05,
+  "domain": [0.0, 1, 0.0, 1, 0.0, 1],
+  "particles": "inputs/dam_break.in",
+  "output_fname": "output_%04d.txt"
+}
